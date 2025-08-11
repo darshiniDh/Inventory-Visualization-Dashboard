@@ -1,0 +1,7 @@
+product_ID,name,category,units_in_stock,units_sold,price(USD)
+100,CPU,Internal,100,40,250
+101,RAM,Internal,250,100,70
+102,Monitor,External,70,20,270
+103,Keyboard,External,120,80,70
+104,Mouse,External,180,70,15
+105,PC Case,External,150,101,80
