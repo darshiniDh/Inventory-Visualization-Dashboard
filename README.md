@@ -7,6 +7,7 @@ To access the dashboard locally use the command in the terminal
 ```
 panel serve Interactive_Visualization_Dashboard.ipynb
 ```
-<img width="959" height="506" alt="{639B4FAF-E3D9-41DB-A1C8-FC10E468646D}" src="https://github.com/user-attachments/assets/04b6c418-d21f-4634-8a1e-d93fc458a8fc" />
-<img width="959" height="500" alt="{00B8C629-AB54-4816-A841-FCA2624532B0}" src="https://github.com/user-attachments/assets/73527bb7-9fb0-4637-b478-fe54852ee44e" />
+<<img width="957" height="455" alt="{60C3A2AA-EF7A-41BF-962A-6767F3ECD6C4}" src="https://github.com/user-attachments/assets/9328df7a-0d08-485e-9741-7302945ba71b" />
+<img width="959" height="503" alt="{712B533B-D025-43D1-BF26-D87B4E78BD71}" src="https://github.com/user-attachments/assets/19a775a7-975a-4859-98f5-7dd6ae753486" />
+
 
